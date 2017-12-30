@@ -2,7 +2,7 @@
 
 How to install Taba
 
-You need to have Python 3.5 installed on your computer to run Taba. In addition, you also need NumPy, Matplotlib, scikit-learn, and SciPy. 
+You need to have Python 3.5 installed on your computer to run Taba. In addition, you also need NumPy, Matplotlib, scikit-learn, pyqt4 and SciPy. 
 
 Windows
 

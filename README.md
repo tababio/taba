@@ -24,9 +24,9 @@ Step 1. Download Taba
 
 Step 2. Unzip the zipped file (TABA_dist) 
 
-Step 3. Copy TABA_dist directory to your pessoal directory
+Step 3. Copy TABA_dist directory to your personal directory
 
-Step 4. Open a terminal and type cd /your pessoal directory/TABA_dist
+Step 4. Open a terminal and type cd /your personal directory/TABA_dist
 
 then type: python taba.py
 

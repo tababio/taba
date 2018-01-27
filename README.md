@@ -8,11 +8,11 @@ Windows
 
 Step 1. Download Taba 
 
-Step 2. Unzip the zipped file (TABA2_dist) 
+Step 2. Unzip the zipped file (TABA_dist) 
 
-Step 3. Copy TABA2_dist directory to c:\ 
+Step 3. Copy TABA_dist directory to c:\ 
 
-Step 4. Open a command prompt window (Terminal) and type: cd c:\TABA2_dist
+Step 4. Open a command prompt window (Terminal) and type: cd c:\TABA_dist
 
 then type: python taba.py
 
@@ -22,11 +22,11 @@ Linux
 
 Step 1. Download Taba 
 
-Step 2. Unzip the zipped file (TABA2_dist) 
+Step 2. Unzip the zipped file (TABA_dist) 
 
-Step 3. Copy TABA2_dist directory to your personal directory
+Step 3. Copy TABA_dist directory to your personal directory
 
-Step 4. Open a terminal and type cd /your personal directory/TABA2_dist
+Step 4. Open a terminal and type cd /your personal directory/TABA_dist
 
 then type: python taba.py
 

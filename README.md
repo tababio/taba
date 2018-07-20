@@ -1,4 +1,7 @@
-# taba
+# Taba
+
+Taba is free software: you can redistribute it and/or modify it under the terms of the <a href="https://www.gnu.org/licenses/gpl.txt">GNU General Public License</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
+
 
 How to install Taba
 

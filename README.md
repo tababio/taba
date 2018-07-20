@@ -3,7 +3,7 @@
 Taba is free software: you can redistribute it and/or modify it under the terms of the <a href="https://www.gnu.org/licenses/gpl.txt">GNU General Public License</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
 
 
-How to install Taba
+<h3>How to install Taba</h3>
 
 You need to have Python 3.5 installed on your computer to run Taba. In addition, you also need NumPy, Matplotlib, scikit-learn, pyqt4 and SciPy. 
 

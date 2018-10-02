@@ -1,12 +1,12 @@
 # Taba: Tool to Analyze Binding Affinity
 
-Taba is free software: you can redistribute it and/or modify it under the terms of the <a href="https://www.gnu.org/licenses/gpl.txt">GNU General Public License</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
+Taba is free software: you can redistribute it and/or modify it under the terms of the <a href="https://www.gnu.org/licenses/gpl.txt">GNU General Public License</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. You can use a higher version as well.  
 
 
 <h3>How to install Taba</h3>
 How to install Taba
 
-You need to have Python 3.5 installed on your computer to run Taba. In addition, you also need NumPy, Matplotlib, scikit-learn, pyqt4 and SciPy.
+You need to have Python 3.5 installed on your computer to run Taba. In addition, you also need NumPy (1.14.5), Matplotlib, scikit-learn (0.19.1), pyqt4 and SciPy (1.1.0).
 
 Windows
 

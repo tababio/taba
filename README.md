@@ -38,5 +38,7 @@ This launches GUI window for Taba. That´s it, good Taba session. See help for a
 
 Taba was developed by Amauri Duarte and Dr. Walter F. Azevedo Jr. (walter@azevedolab.net)
 
+Taba site: www.taba.bio.br
+
 Last update on September 7, 2018.
 

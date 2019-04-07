@@ -1,0 +1,7 @@
+LinearRegression,True,True,True
+Lasso,0.1,True,True,False,True,1000,0.0001,True,False,random,27950288
+LassoCV,0.1,True,True,False,True,1000,0.0001,True,False,random,27950288
+Ridge,1.0,True,True,True,1000,0.001,auto
+RidgeCV,0.05,2.0,0.05,True,False,True,1000,0.001,auto
+ElasticNet,0.1,0.5,True,False,True,1000,True,0.0001,True,False,27950288,random
+ElasticNetCV,0.1,0.15,15,0.5,True,False,True,1000,True,0.0001,True,False,27950288,random

@@ -5,6 +5,7 @@
 Please cite the following reference (<a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">da Silva AD et al., 2019</a>) if the Taba program was useful.
 
 da Silva AD, Bitencourt-Ferreira G, de Azevedo WF Jr. Taba: A Tool to Analyze the Binding Affinity. J Comput Chem. 2019 <a href="https://doi.org/10.1002/jcc.26048">doi: 10.1002/jcc.26048</a>.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">PubMed</a>  
+<br>
 <a href="https://onlinelibrary.wiley.com/toc/1096987x/2020/41/1"  target="_blank">
   <img src="./jcc25875-toc-0001-m.jpg" class="figure-img img-fluid rounded" alt="Taba Cover" title="Taba Cover" height="262">
 </a>
